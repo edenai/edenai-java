@@ -1,0 +1,9 @@
+io/swagger/client/api/SpeechApiTest.class
+io/swagger/client/api/EdenAiToolsApiTest.class
+io/swagger/client/api/OcrApiTest.class
+io/swagger/client/api/PipelinesApiTest.class
+io/swagger/client/api/TranslationApiTest.class
+io/swagger/client/api/AutoMlTextDataApiTest.class
+io/swagger/client/api/VisionApiTest.class
+io/swagger/client/api/TextApiTest.class
+io/swagger/client/api/test.class
