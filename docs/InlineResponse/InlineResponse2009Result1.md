@@ -1,0 +1,15 @@
+
+# InlineResponse2009Result1
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**solutionName** | **String** |  |  [optional]
+**provider** | **String** |  |  [optional]
+**status** | **String** |  |  [optional]
+**executionTime** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**originalResult** | **Object** |  |  [optional]
+**result** | [**InlineResponse2009Result**](InlineResponse2009Result.md) |  |  [optional]
+
+
+

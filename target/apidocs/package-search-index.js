@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edenai"},{"l":"edenai.auth"},{"l":"io.swagger.client.api"},{"l":"io.swagger.client.model"}]
